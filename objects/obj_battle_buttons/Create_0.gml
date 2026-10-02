@@ -1,3 +1,2 @@
-menu = false;
-batalha = false;
-inicio = true;
+escolha = false;
+escolha_atual = "fight";

@@ -6,6 +6,13 @@ var right_key = keyboard_check(ord("D")) || keyboard_check(vk_right);
 #endregion
 
 #region MOVIMENTOS
+if (global.estado == "batalha"){
+	can_exists = true;
+}
+else if (global.estado == "inicio" or global.estado == "menu"){
+	can_exists = false;
+}
+
 if(can_exists == true){
 	image_alpha = 1;
 	

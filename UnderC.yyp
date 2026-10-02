@@ -53,6 +53,7 @@
     {"id":{"name":"rm_niko_room","path":"rooms/rm_niko_room/rm_niko_room.yy",},},
     {"id":{"name":"rm_title","path":"rooms/rm_title/rm_title.yy",},},
     {"id":{"name":"spr_battle_box","path":"sprites/spr_battle_box/spr_battle_box.yy",},},
+    {"id":{"name":"spr_battle_buttons_chose","path":"sprites/spr_battle_buttons_chose/spr_battle_buttons_chose.yy",},},
     {"id":{"name":"spr_battle_buttons_menu","path":"sprites/spr_battle_buttons_menu/spr_battle_buttons_menu.yy",},},
     {"id":{"name":"spr_battle_buttons","path":"sprites/spr_battle_buttons/spr_battle_buttons.yy",},},
     {"id":{"name":"spr_battle_ui","path":"sprites/spr_battle_ui/spr_battle_ui.yy",},},
