@@ -1,13 +1,13 @@
 # UnderC💙
 
-### Sobre o Projeto:
-Esse jogo é um projeto feito na engine GameMaker e é basicamente sobre um simulador de batalhas onde você joga com um personagem chamado "FeLaLost", e o objetivo é basicamente sair batalhando contra todo o tipo de boss que existe no jogo. E esse projeto tem uma inspiração muito grande em Undertale, do Toby Fox. E é por isso que o nome do projeto é "Under" no inicio, e a segunda parte do nome "C", vem do curso que eu faço na ETEC, o curso de Desenvolvimento de Sistemas, e é basicamente porque cada curso possui uma letra que representa ele, e a letra do meu curso é o "C". E essas são as principais inspirações do projeto. E também os bosses do jogo são referências a outros jogos, como por exemplo o Niko de OneShot.
+### About the Project:
+This game is a project made in the GameMaker engine and is basically a battle simulator where you play as a character named "FeLaLost", and the main goal is to fight against all kinds of bosses that exist in the game. This project draws heavy inspiration from Toby Fox's Undertale. That is why the first part of the name is "Under", and the second part, "C", comes from the Systems Development course I am taking at ETEC. This is because each course is represented by a letter, and my course's letter is "C". These are the main inspirations behind the project. Additionally, the game's bosses are references to other games, such as Niko from OneShot.
 
-### Progresso do Projeto:
-*   [X] Criação do Menu Inicial (Tela que Aparece Quando Abre o Jogo);
-*   [X] Criação do Menu Principal (Tela de Seleção de Boss);
-*   [ ] Primeira batalha jogável;
+### Project Progress:
+*   [X] Creation of the Title Screen (The screen that appears when the game opens);
+*   [X] Creation of the Main Menu (Boss Selection Screen);
+*   [ ] First playable battle;
 
-### Tecnologias Utilizadas no Projeto
+### Technologies Used in the Project
 *   **Engine:** GameMaker (GML - GameMaker Language)
-*   **Controle de Versão:** Git & GitHub
+*   **Version Control:** Git & GitHub
